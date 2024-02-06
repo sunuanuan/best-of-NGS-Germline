@@ -15,6 +15,12 @@ categories:
     title: "BAM manipulation and stats"
   - category: "variant-calling"
     title: "Variant calling"
+  - category: "vcf-related"
+    title: "VCF manipulation and stats"
+  - category: "cnv-calling"
+    title: "Copy number variation calling"
+  - category: "gene-typing"
+    title: "Gene typing"
 
 projects:
   - name: OpenGene/fastp
@@ -52,4 +58,28 @@ projects:
   - name: Illumina/strelka
     github_id: Illumina/strelka
     category: "variant-calling"
+    show: True
+  - name: samtools/bcftools
+    github_id: samtools/bcftools
+    category: "vcf-related"
+    show: True
+  - name: etal/cnvkit
+    github_id: etal/cnvkit
+    category: "cnv-calling"
+    show: True
+  - name: humanlongevity/HLA
+    github_id: humanlongevity/HLA
+    category: "gene-typing"
+    show: True
+  - name: FRED-2/OptiType
+    github_id: FRED-2/OptiType
+    category: "gene-typing"
+    show: True
+  - name: Illumina/SMNCopyNumberCaller
+    github_id: Illumina/SMNCopyNumberCaller
+    category: "gene-typing"
+    show: True
+  - name: Illumina/ExpansionHunter
+    github_id: Illumina/ExpansionHunter
+    category: "gene-typing"
     show: True
