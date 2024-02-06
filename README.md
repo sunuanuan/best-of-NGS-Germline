@@ -7,6 +7,9 @@
 - [VCF manipulation and stats](#vcf-manipulation-and-stats) _1 projects_
 - [Copy number variation calling](#copy-number-variation-calling) _1 projects_
 - [Gene typing](#gene-typing) _4 projects_
+- [BED manipulation and stats](#bed-manipulation-and-stats) _3 projects_
+- [Relationship inference](#relationship-inference) _2 projects_
+- [FASTQ compression](#fastq-compression) _0 projects_
 
 <br>
 
@@ -14,9 +17,9 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/OpenGene/fastp">OpenGene/fastp</a></b> (🥇19 ·  ⭐ 1.7K · 💤) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...).</summary>
+<details><summary><b><a href="https://github.com/OpenGene/fastp">OpenGene/fastp</a></b> (🥇20 ·  ⭐ 1.7K · 💤) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...).</summary>
 
-- [GitHub](https://github.com/OpenGene/fastp) (👨‍💻 26 · 🔀 310 · 📋 490 - 64% open · ⏱️ 31.05.2023):
+- [GitHub](https://github.com/OpenGene/fastp) (👨‍💻 26 · 🔀 320 · 📋 490 - 64% open · ⏱️ 31.05.2023):
 
 	```
 	git clone https://github.com/OpenGene/fastp
@@ -110,7 +113,7 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/samtools/bcftools">samtools/bcftools</a></b> (🥇23 ·  ⭐ 590 · ➕) - This is the official development repository for BCFtools. See installation instructions and other documentation here..</summary>
+<details><summary><b><a href="https://github.com/samtools/bcftools">samtools/bcftools</a></b> (🥇23 ·  ⭐ 590) - This is the official development repository for BCFtools. See installation instructions and other documentation here..</summary>
 
 - [GitHub](https://github.com/samtools/bcftools) (👨‍💻 54 · 🔀 220 · 📥 560K · 📋 1.8K - 15% open · ⏱️ 31.01.2024):
 
@@ -124,7 +127,7 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/etal/cnvkit">etal/cnvkit</a></b> (🥇18 ·  ⭐ 460 · ➕) - Copy number variant detection from targeted DNA sequencing.</summary>
+<details><summary><b><a href="https://github.com/etal/cnvkit">etal/cnvkit</a></b> (🥇18 ·  ⭐ 460) - Copy number variant detection from targeted DNA sequencing.</summary>
 
 - [GitHub](https://github.com/etal/cnvkit) (👨‍💻 38 · 🔀 150 · 📦 28 · 📋 720 - 39% open · ⏱️ 11.12.2023):
 
@@ -146,7 +149,7 @@
 	git clone https://github.com/FRED-2/OptiType
 	```
 </details>
-<details><summary><b><a href="https://github.com/Illumina/ExpansionHunter">Illumina/ExpansionHunter</a></b> (🥇14 ·  ⭐ 160 · ➕) - A tool for estimating repeat sizes.</summary>
+<details><summary><b><a href="https://github.com/Illumina/ExpansionHunter">Illumina/ExpansionHunter</a></b> (🥇14 ·  ⭐ 160) - A tool for estimating repeat sizes.</summary>
 
 - [GitHub](https://github.com/Illumina/ExpansionHunter) (👨‍💻 17 · 🔀 49 · 📥 9.7K · 📋 100 - 60% open · ⏱️ 30.01.2024):
 
@@ -162,7 +165,7 @@
 	git clone https://github.com/humanlongevity/HLA
 	```
 </details>
-<details><summary><b><a href="https://github.com/Illumina/SMNCopyNumberCaller">Illumina/SMNCopyNumberCaller</a></b> (🥉8 ·  ⭐ 44 · ➕) - A copy number caller for SMN1 and SMN2 to enable SMA diagnosis and carrier screening with WGS.</summary>
+<details><summary><b><a href="https://github.com/Illumina/SMNCopyNumberCaller">Illumina/SMNCopyNumberCaller</a></b> (🥉8 ·  ⭐ 44) - A copy number caller for SMN1 and SMN2 to enable SMA diagnosis and carrier screening with WGS.</summary>
 
 - [GitHub](https://github.com/Illumina/SMNCopyNumberCaller) (👨‍💻 4 · 🔀 11 · 📋 10 - 50% open · ⏱️ 14.10.2023):
 
@@ -170,3 +173,61 @@
 	git clone https://github.com/Illumina/SMNCopyNumberCaller
 	```
 </details>
+<br>
+
+## BED manipulation and stats
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/arq5x/bedtools2">arq5x/bedtools2</a></b> (🥇24 ·  ⭐ 880 · ➕) - bedtools - the swiss army knife for genome arithmetic.</summary>
+
+- [GitHub](https://github.com/arq5x/bedtools2) (👨‍💻 93 · 🔀 280 · 📥 970K · 📋 810 - 25% open · ⏱️ 07.11.2023):
+
+	```
+	git clone https://github.com/arq5x/bedtools2
+	```
+</details>
+<details><summary><b><a href="https://github.com/lh3/bedtk">lh3/bedtk</a></b> (🥉7 ·  ⭐ 120 · 💀) - A simple toolset for BED files (warning: CLI may change before bedtk becomes stable).</summary>
+
+- [GitHub](https://github.com/lh3/bedtk) (👨‍💻 3 · 🔀 13 · ⏱️ 01.04.2022):
+
+	```
+	git clone https://github.com/lh3/bedtk
+	```
+</details>
+<details><summary><b><a href="https://github.com/lh3/tabtk">lh3/tabtk</a></b> (🥉4 ·  ⭐ 59 · 💀) - Toolkit for processing TAB-delimited format.</summary>
+
+- [GitHub](https://github.com/lh3/tabtk) (🔀 11 · 📋 2 - 50% open · ⏱️ 11.08.2016):
+
+	```
+	git clone https://github.com/lh3/tabtk
+	```
+</details>
+<br>
+
+## Relationship inference
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/brentp/somalier">brentp/somalier</a></b> (🥇17 ·  ⭐ 240 · ➕) - fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs... like damn that is one smart wine guy.</summary>
+
+- [GitHub](https://github.com/brentp/somalier) (👨‍💻 8 · 🔀 31 · 📥 14K · 📋 120 - 39% open · ⏱️ 02.02.2024):
+
+	```
+	git clone https://github.com/brentp/somalier
+	```
+</details>
+<details><summary><b><a href="https://github.com/shubhamchandak94/Spring">shubhamchandak94/Spring</a></b> (🥉9 ·  ⭐ 99 · 💤) - FASTQ compression.</summary>
+
+- [GitHub](https://github.com/shubhamchandak94/Spring) (🔀 19 · ⏱️ 27.05.2023):
+
+	```
+	git clone https://github.com/shubhamchandak94/Spring
+	```
+</details>
+<br>
+
+## FASTQ compression
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
