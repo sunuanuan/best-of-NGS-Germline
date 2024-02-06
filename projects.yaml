@@ -3,6 +3,8 @@ configuration:
   generate_legend: False
   require_license: False
   hide_project_license: True
+  min_description_length: 0
+  max_description_length: 1000
 
 categories:
   - category: "fastq-qc"
