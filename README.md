@@ -8,8 +8,8 @@
 - [Copy number variation calling](#copy-number-variation-calling) _1 projects_
 - [Gene typing](#gene-typing) _4 projects_
 - [BED manipulation and stats](#bed-manipulation-and-stats) _3 projects_
-- [Relationship inference](#relationship-inference) _2 projects_
-- [FASTQ compression](#fastq-compression) _0 projects_
+- [Relationship inference](#relationship-inference) _1 projects_
+- [FASTQ compression](#fastq-compression) _1 projects_
 
 <br>
 
@@ -179,7 +179,7 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/arq5x/bedtools2">arq5x/bedtools2</a></b> (🥇24 ·  ⭐ 880 · ➕) - bedtools - the swiss army knife for genome arithmetic.</summary>
+<details><summary><b><a href="https://github.com/arq5x/bedtools2">arq5x/bedtools2</a></b> (🥇24 ·  ⭐ 880) - bedtools - the swiss army knife for genome arithmetic.</summary>
 
 - [GitHub](https://github.com/arq5x/bedtools2) (👨‍💻 93 · 🔀 280 · 📥 970K · 📋 810 - 25% open · ⏱️ 07.11.2023):
 
@@ -209,20 +209,12 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/brentp/somalier">brentp/somalier</a></b> (🥇17 ·  ⭐ 240 · ➕) - fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs... like damn that is one smart wine guy.</summary>
+<details><summary><b><a href="https://github.com/brentp/somalier">brentp/somalier</a></b> (🥇17 ·  ⭐ 240) - fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs... like damn that is one smart wine guy.</summary>
 
 - [GitHub](https://github.com/brentp/somalier) (👨‍💻 8 · 🔀 31 · 📥 14K · 📋 120 - 39% open · ⏱️ 02.02.2024):
 
 	```
 	git clone https://github.com/brentp/somalier
-	```
-</details>
-<details><summary><b><a href="https://github.com/shubhamchandak94/Spring">shubhamchandak94/Spring</a></b> (🥉9 ·  ⭐ 99 · 💤) - FASTQ compression.</summary>
-
-- [GitHub](https://github.com/shubhamchandak94/Spring) (🔀 19 · ⏱️ 27.05.2023):
-
-	```
-	git clone https://github.com/shubhamchandak94/Spring
 	```
 </details>
 <br>
@@ -231,3 +223,11 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
+<details><summary><b><a href="https://github.com/shubhamchandak94/Spring">shubhamchandak94/Spring</a></b> (🥇9 ·  ⭐ 99 · 💤) - FASTQ compression.</summary>
+
+- [GitHub](https://github.com/shubhamchandak94/Spring) (🔀 19 · ⏱️ 27.05.2023):
+
+	```
+	git clone https://github.com/shubhamchandak94/Spring
+	```
+</details>
