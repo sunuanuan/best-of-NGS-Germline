@@ -21,6 +21,12 @@ categories:
     title: "Copy number variation calling"
   - category: "gene-typing"
     title: "Gene typing"
+  - category: "bed-related"
+    title: "BED manipulation and stats"
+  - category: "relationship"
+    title: "Relationship inference"
+  - category: "fastq-compression"
+    title: "FASTQ compression"
 
 projects:
   - name: OpenGene/fastp
@@ -82,4 +88,24 @@ projects:
   - name: Illumina/ExpansionHunter
     github_id: Illumina/ExpansionHunter
     category: "gene-typing"
+    show: True
+  - name: lh3/bedtk
+    github_id: lh3/bedtk
+    category: "bed-related"
+    show: True
+  - name: arq5x/bedtools2
+    github_id: arq5x/bedtools2
+    category: "bed-related"
+    show: True
+  - name: lh3/tabtk
+    github_id: lh3/tabtk
+    category: "bed-related"
+    show: True
+  - name: brentp/somalier
+    github_id: brentp/somalier
+    category: "relationship"
+    show: True
+  - name: shubhamchandak94/Spring
+    github_id: shubhamchandak94/Spring
+    category: "relationship"
     show: True
