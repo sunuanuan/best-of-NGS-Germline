@@ -107,5 +107,5 @@ projects:
     show: True
   - name: shubhamchandak94/Spring
     github_id: shubhamchandak94/Spring
-    category: "relationship"
+    category: "fastq-compression"
     show: True
