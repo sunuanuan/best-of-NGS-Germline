@@ -17,27 +17,39 @@ categories:
     title: "Variant calling"
 
 projects:
-  - name: fastp
+  - name: OpenGene/fastp
     github_id: OpenGene/fastp
     category: "fastq-qc"
     show: True
-  - name: bwa
+  - name: lh3/bwa
     github_id: lh3/bwa
     category: "read-alignment"
     show: True
-  - name: samtools
+  - name: samtools/samtools
     github_id: samtools/samtools
     category: "bam-related"
     show: True
-  - name: mosdepth
+  - name: brentp/mosdepth
     github_id: brentp/mosdepth
     category: "bam-related"
     show: True
-  - name: sambamba
+  - name: biod/sambamba
     github_id: biod/sambamba
     category: "bam-related"
     show: True
-  - name: samblaster
+  - name: GregoryFaust/samblaster
     github_id: GregoryFaust/samblaster
     category: "bam-related"
+    show: True
+  - name: broadinstitute/gatk
+    github_id: broadinstitute/gatk
+    category: "variant-calling"
+    show: True
+  - name: google/deepvariant
+    github_id: google/deepvariant
+    category: "variant-calling"
+    show: True
+  - name: Illumina/strelka
+    github_id: Illumina/strelka
+    category: "variant-calling"
     show: True
