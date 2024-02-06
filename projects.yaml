@@ -9,9 +9,35 @@ configuration:
 categories:
   - category: "fastq-qc"
     title: "FASTQ quality control"
+  - categories: "read-alignment"
+    title: "Read alignment"
+  - categories: "bam-related"
+    title: "BAM manipulation and stats"
+  - categories: "variant-calling"
+    title: "Variant calling"
 
 projects:
   - name: fastp
     github_id: OpenGene/fastp
     category: "fastq-qc"
+    show: True
+  - name: bwa
+    github_id: lh3/bwa
+    category: "read-alignment"
+    show: True
+  - name: samtools
+    github_id: samtools/samtools
+    category: "bam-related"
+    show: True
+  - name: mosdepth
+    github_id: brentp/mosdepth
+    category: "bam-related"
+    show: True
+  - name: sambamba
+    github_id: biod/sambamba
+    category: "bam-related"
+    show: True
+  - name: samblaster
+    github_id: GregoryFaust/samblaster
+    category: "bam-related"
     show: True
