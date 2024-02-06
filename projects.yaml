@@ -1,7 +1,8 @@
 configuration:
-  markdown_header_file: "config/header.md"
-  markdown_footer_file: "config/footer.md"
   sort_by: stars
+  generate_legend: False
+  require_license: False
+  hide_project_license: True
 
 categories:
   - category: "fastq-qc"
