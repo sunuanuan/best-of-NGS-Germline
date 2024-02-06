@@ -9,11 +9,11 @@ configuration:
 categories:
   - category: "fastq-qc"
     title: "FASTQ quality control"
-  - categories: "read-alignment"
+  - category: "read-alignment"
     title: "Read alignment"
-  - categories: "bam-related"
+  - category: "bam-related"
     title: "BAM manipulation and stats"
-  - categories: "variant-calling"
+  - category: "variant-calling"
     title: "Variant calling"
 
 projects:
