@@ -39,7 +39,7 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/samtools/samtools">samtools</a></b> (🥇25 ·  ⭐ 1.5K · ➕) - Tools (written in C using htslib) for manipulating next-generation sequencing data.</summary>
+<details><summary><b><a href="https://github.com/samtools/samtools">samtools</a></b> (🥇25 ·  ⭐ 1.5K) - Tools (written in C using htslib) for manipulating next-generation sequencing data.</summary>
 
 - [GitHub](https://github.com/samtools/samtools) (👨‍💻 92 · 🔀 540 · 📥 1.4M · 📋 1.2K - 14% open · ⏱️ 26.01.2024):
 
@@ -47,20 +47,20 @@
 	git clone https://github.com/samtools/samtools
 	```
 </details>
-<details><summary><b><a href="https://github.com/biod/sambamba">sambamba</a></b> (🥈20 ·  ⭐ 540 · ➕) - Tools for working with SAM/BAM data.</summary>
-
-- [GitHub](https://github.com/biod/sambamba) (👨‍💻 29 · 🔀 96 · 📥 140K · 📋 450 - 6% open · ⏱️ 21.08.2023):
-
-	```
-	git clone https://github.com/biod/sambamba
-	```
-</details>
-<details><summary><b><a href="https://github.com/brentp/mosdepth">mosdepth</a></b> (🥉19 ·  ⭐ 630 · ➕) - fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing.</summary>
+<details><summary><b><a href="https://github.com/brentp/mosdepth">mosdepth</a></b> (🥉19 ·  ⭐ 630) - fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing.</summary>
 
 - [GitHub](https://github.com/brentp/mosdepth) (👨‍💻 16 · 🔀 99 · 📥 300K · 📋 200 - 24% open · ⏱️ 22.11.2023):
 
 	```
 	git clone https://github.com/brentp/mosdepth
+	```
+</details>
+<details><summary><b><a href="https://github.com/biod/sambamba">sambamba</a></b> (🥈20 ·  ⭐ 540) - Tools for working with SAM/BAM data.</summary>
+
+- [GitHub](https://github.com/biod/sambamba) (👨‍💻 29 · 🔀 96 · 📥 140K · 📋 450 - 6% open · ⏱️ 21.08.2023):
+
+	```
+	git clone https://github.com/biod/sambamba
 	```
 </details>
 <details><summary><b><a href="https://github.com/GregoryFaust/samblaster">samblaster</a></b> (🥉14 ·  ⭐ 210 · 💀) - samblaster: a tool to mark duplicates and extract discordant and split reads from sam files.</summary>
