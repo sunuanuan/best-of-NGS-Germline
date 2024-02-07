@@ -1,3 +1,9 @@
+<!-- markdownlint-disable -->
+<h1 align="center">
+    best-of-NGS-Germline
+    <br>
+</h1>
+
 ## Contents
 
 - [FASTQ quality control](#fastq-quality-control) _1 projects_
@@ -19,7 +25,7 @@
 
 <details><summary><b><a href="https://github.com/OpenGene/fastp">OpenGene/fastp</a></b> (🥇20 ·  ⭐ 1.7K · 💤) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...).</summary>
 
-- [GitHub](https://github.com/OpenGene/fastp) (👨‍💻 26 · 🔀 320 · 📋 490 - 64% open · ⏱️ 31.05.2023):
+- [GitHub](https://github.com/OpenGene/fastp) (👨‍💻 26 · 🔀 320 · 📋 490 - 63% open · ⏱️ 31.05.2023):
 
 	```
 	git clone https://github.com/OpenGene/fastp
@@ -47,7 +53,7 @@
 
 <details><summary><b><a href="https://github.com/samtools/samtools">samtools/samtools</a></b> (🥇25 ·  ⭐ 1.5K) - Tools (written in C using htslib) for manipulating next-generation sequencing data.</summary>
 
-- [GitHub](https://github.com/samtools/samtools) (👨‍💻 92 · 🔀 540 · 📥 1.4M · 📋 1.2K - 14% open · ⏱️ 26.01.2024):
+- [GitHub](https://github.com/samtools/samtools) (👨‍💻 92 · 🔀 550 · 📥 1.4M · 📋 1.2K - 14% open · ⏱️ 06.02.2024):
 
 	```
 	git clone https://github.com/samtools/samtools
@@ -223,7 +229,7 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/shubhamchandak94/Spring">shubhamchandak94/Spring</a></b> (🥇9 ·  ⭐ 99 · 💤) - FASTQ compression.</summary>
+<details><summary><b><a href="https://github.com/shubhamchandak94/Spring">shubhamchandak94/Spring</a></b> (🥇9 ·  ⭐ 100 · 💤) - FASTQ compression.</summary>
 
 - [GitHub](https://github.com/shubhamchandak94/Spring) (🔀 19 · ⏱️ 27.05.2023):
 
