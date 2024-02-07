@@ -5,6 +5,7 @@ configuration:
   hide_project_license: True
   min_description_length: 0
   max_description_length: 1000
+  markdown_header_file: "config/header.md"
 
 categories:
   - category: "fastq-qc"
