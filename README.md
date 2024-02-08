@@ -33,7 +33,7 @@
 	git clone https://github.com/OpenGene/fastp
 	```
 </details>
-<details><summary><b><a href="https://github.com/marcelm/cutadapt">marcelm/cutadapt</a></b> (🥇25 ·  ⭐ 480 · ➕) - Cutadapt removes adapter sequences from sequencing reads.</summary>
+<details><summary><b><a href="https://github.com/marcelm/cutadapt">marcelm/cutadapt</a></b> (🥇25 ·  ⭐ 480) - Cutadapt removes adapter sequences from sequencing reads.</summary>
 
 - [GitHub](https://github.com/marcelm/cutadapt) (👨‍💻 30 · 🔀 130 · 📥 4.3K · 📦 400 · 📋 680 - 8% open · ⏱️ 05.02.2024):
 
@@ -63,7 +63,7 @@
 	git clone https://github.com/lh3/bwa
 	```
 </details>
-<details><summary><b><a href="https://github.com/BenLangmead/bowtie2">BenLangmead/bowtie2</a></b> (🥇23 ·  ⭐ 600 · ➕) - A fast and sensitive gapped read aligner.</summary>
+<details><summary><b><a href="https://github.com/BenLangmead/bowtie2">BenLangmead/bowtie2</a></b> (🥇23 ·  ⭐ 600) - A fast and sensitive gapped read aligner.</summary>
 
 - [GitHub](https://github.com/BenLangmead/bowtie2) (👨‍💻 38 · 🔀 160 · 📥 71K · 📋 400 - 34% open · ⏱️ 17.01.2024):
 
@@ -145,9 +145,9 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/samtools/bcftools">samtools/bcftools</a></b> (🥇23 ·  ⭐ 590) - This is the official development repository for BCFtools. See installation instructions and other documentation here..</summary>
+<details><summary><b><a href="https://github.com/samtools/bcftools">samtools/bcftools</a></b> (🥇23 ·  ⭐ 600) - This is the official development repository for BCFtools. See installation instructions and other documentation here..</summary>
 
-- [GitHub](https://github.com/samtools/bcftools) (👨‍💻 54 · 🔀 220 · 📥 560K · 📋 1.8K - 15% open · ⏱️ 31.01.2024):
+- [GitHub](https://github.com/samtools/bcftools) (👨‍💻 54 · 🔀 220 · 📥 560K · 📋 1.8K - 15% open · ⏱️ 08.02.2024):
 
 	```
 	git clone https://github.com/samtools/bcftools
@@ -195,7 +195,7 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/Ensembl/ensembl-vep">Ensembl/ensembl-vep</a></b> (🥇19 ·  ⭐ 410 · ➕) - The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants.</summary>
+<details><summary><b><a href="https://github.com/Ensembl/ensembl-vep">Ensembl/ensembl-vep</a></b> (🥇19 ·  ⭐ 410) - The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants.</summary>
 
 - [GitHub](https://github.com/Ensembl/ensembl-vep) (👨‍💻 45 · 🔀 140 · 📋 980 - 9% open · ⏱️ 17.01.2024):
 
@@ -203,7 +203,7 @@
 	git clone https://github.com/Ensembl/ensembl-vep
 	```
 </details>
-<details><summary><b><a href="https://github.com/pcingola/SnpEff">pcingola/SnpEff</a></b> (🥉15 ·  ⭐ 220 · ➕) - </summary>
+<details><summary><b><a href="https://github.com/pcingola/SnpEff">pcingola/SnpEff</a></b> (🥉15 ·  ⭐ 220) - </summary>
 
 - [GitHub](https://github.com/pcingola/SnpEff) (👨‍💻 21 · 🔀 71 · 📋 460 - 3% open · ⏱️ 17.01.2024):
 
@@ -211,7 +211,7 @@
 	git clone https://github.com/pcingola/SnpEff
 	```
 </details>
-<details><summary><b><a href="https://github.com/WGLab/doc-ANNOVAR">WGLab/doc-ANNOVAR</a></b> (🥉12 ·  ⭐ 200 · ➕) - Documentation for the ANNOVAR software.</summary>
+<details><summary><b><a href="https://github.com/WGLab/doc-ANNOVAR">WGLab/doc-ANNOVAR</a></b> (🥉12 ·  ⭐ 200) - Documentation for the ANNOVAR software.</summary>
 
 - [GitHub](https://github.com/WGLab/doc-ANNOVAR) (👨‍💻 8 · 🔀 290 · 📋 230 - 47% open · ⏱️ 28.11.2023):
 
