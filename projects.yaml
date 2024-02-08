@@ -20,6 +20,10 @@ categories:
     title: "VCF manipulation and stats"
   - category: "cnv-calling"
     title: "Copy number variation calling"
+  - category: "sv-calling"
+    title: "Structural variation calling"
+  - category: "variant-annotation"
+    title: "Variant annotation"
   - category: "gene-typing"
     title: "Gene typing"
   - category: "bed-related"
@@ -34,8 +38,20 @@ projects:
     github_id: OpenGene/fastp
     category: "fastq-qc"
     show: True
+  - name: marcelm/cutadapt
+    github_id: marcelm/cutadapt
+    category: "fastq-qc"
+    show: True
+  - name: timflutre/trimmomatic
+    github_id: timflutre/trimmomatic
+    category: "fastq-qc"
+    show: True
   - name: lh3/bwa
     github_id: lh3/bwa
+    category: "read-alignment"
+    show: True
+  - name: BenLangmead/bowtie2
+    github_id: BenLangmead/bowtie2
     category: "read-alignment"
     show: True
   - name: samtools/samtools
@@ -70,9 +86,29 @@ projects:
     github_id: samtools/bcftools
     category: "vcf-related"
     show: True
+  - name: vcftools/vcftools
+    github_id: vcftools/vcftools
+    category: "vcf-related"
+    show: True
   - name: etal/cnvkit
     github_id: etal/cnvkit
     category: "cnv-calling"
+    show: True
+  - name: Illumina/manta
+    github_id: Illumina/manta
+    category: "sv-calling"
+    show: True
+  - name: Ensembl/ensembl-vep
+    github_id: Ensembl/ensembl-vep
+    category: "variant-annotation"
+    show: True
+  - name: pcingola/SnpEff
+    github_id: pcingola/SnpEff
+    category: "variant-annotation"
+    show: True
+  - name: WGLab/doc-ANNOVAR
+    github_id: WGLab/doc-ANNOVAR
+    category: "variant-annotation"
     show: True
   - name: humanlongevity/HLA
     github_id: humanlongevity/HLA
