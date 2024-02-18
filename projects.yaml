@@ -38,20 +38,12 @@ projects:
     github_id: OpenGene/fastp
     category: "fastq-qc"
     show: True
-  - name: marcelm/cutadapt
-    github_id: marcelm/cutadapt
-    category: "fastq-qc"
-    show: True
-  - name: timflutre/trimmomatic
-    github_id: timflutre/trimmomatic
-    category: "fastq-qc"
-    show: True
   - name: lh3/bwa
     github_id: lh3/bwa
     category: "read-alignment"
     show: True
-  - name: BenLangmead/bowtie2
-    github_id: BenLangmead/bowtie2
+  - name: bwa-mem2/bwa-mem2
+    github_id: bwa-mem2/bwa-mem2
     category: "read-alignment"
     show: True
   - name: samtools/samtools
@@ -84,10 +76,6 @@ projects:
     show: True
   - name: samtools/bcftools
     github_id: samtools/bcftools
-    category: "vcf-related"
-    show: True
-  - name: vcftools/vcftools
-    github_id: vcftools/vcftools
     category: "vcf-related"
     show: True
   - name: etal/cnvkit
