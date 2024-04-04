@@ -49,7 +49,7 @@
 </details>
 <details><summary><b><a href="https://github.com/bwa-mem2/bwa-mem2">bwa-mem2/bwa-mem2</a></b> (🥉15 ·  ⭐ 670) - The next version of bwa-mem.</summary>
 
-- [GitHub](https://github.com/bwa-mem2/bwa-mem2) (👨‍💻 12 · 🔀 87 · 📥 28K · 📋 200 - 38% open · ⏱️ 18.12.2023):
+- [GitHub](https://github.com/bwa-mem2/bwa-mem2) (👨‍💻 12 · 🔀 86 · 📥 28K · 📋 200 - 38% open · ⏱️ 18.12.2023):
 
 	```
 	git clone https://github.com/bwa-mem2/bwa-mem2
@@ -63,13 +63,13 @@
 
 <details><summary><b><a href="https://github.com/samtools/samtools">samtools/samtools</a></b> (🥇25 ·  ⭐ 1.5K) - Tools (written in C using htslib) for manipulating next-generation sequencing data.</summary>
 
-- [GitHub](https://github.com/samtools/samtools) (👨‍💻 94 · 🔀 550 · 📥 1.5M · 📋 1.2K - 13% open · ⏱️ 28.03.2024):
+- [GitHub](https://github.com/samtools/samtools) (👨‍💻 94 · 🔀 550 · 📥 1.5M · 📋 1.2K - 13% open · ⏱️ 04.04.2024):
 
 	```
 	git clone https://github.com/samtools/samtools
 	```
 </details>
-<details><summary><b><a href="https://github.com/brentp/mosdepth">brentp/mosdepth</a></b> (🥈20 ·  ⭐ 640 · 📈) - fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing.</summary>
+<details><summary><b><a href="https://github.com/brentp/mosdepth">brentp/mosdepth</a></b> (🥈20 ·  ⭐ 650) - fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing.</summary>
 
 - [GitHub](https://github.com/brentp/mosdepth) (👨‍💻 16 · 🔀 99 · 📥 310K · 📋 200 - 25% open · ⏱️ 20.03.2024):
 
@@ -99,9 +99,9 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/google/deepvariant">google/deepvariant</a></b> (🥇25 ·  ⭐ 3.1K · 📈) - DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA..</summary>
+<details><summary><b><a href="https://github.com/google/deepvariant">google/deepvariant</a></b> (🥇25 ·  ⭐ 3.1K) - DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA..</summary>
 
-- [GitHub](https://github.com/google/deepvariant) (👨‍💻 30 · 🔀 690 · 📥 4.7K · 📋 730 - 0% open · ⏱️ 18.03.2024):
+- [GitHub](https://github.com/google/deepvariant) (👨‍💻 30 · 🔀 690 · 📥 4.7K · 📋 740 - 1% open · ⏱️ 18.03.2024):
 
 	```
 	git clone https://github.com/google/deepvariant
@@ -109,7 +109,7 @@
 </details>
 <details><summary><b><a href="https://github.com/broadinstitute/gatk">broadinstitute/gatk</a></b> (🥇25 ·  ⭐ 1.6K) - Official code repository for GATK versions 4 and up.</summary>
 
-- [GitHub](https://github.com/broadinstitute/gatk) (👨‍💻 130 · 🔀 560 · 📥 600K · 📋 4.5K - 26% open · ⏱️ 25.03.2024):
+- [GitHub](https://github.com/broadinstitute/gatk) (👨‍💻 130 · 🔀 560 · 📥 600K · 📋 4.5K - 26% open · ⏱️ 04.04.2024):
 
 	```
 	git clone https://github.com/broadinstitute/gatk
@@ -129,9 +129,9 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/samtools/bcftools">samtools/bcftools</a></b> (🥇24 ·  ⭐ 610) - This is the official development repository for BCFtools. See installation instructions and other documentation here..</summary>
+<details><summary><b><a href="https://github.com/samtools/bcftools">samtools/bcftools</a></b> (🥇24 ·  ⭐ 620) - This is the official development repository for BCFtools. See installation instructions and other documentation here..</summary>
 
-- [GitHub](https://github.com/samtools/bcftools) (👨‍💻 54 · 🔀 220 · 📥 590K · 📋 1.8K - 15% open · ⏱️ 28.03.2024):
+- [GitHub](https://github.com/samtools/bcftools) (👨‍💻 54 · 🔀 220 · 📥 590K · 📋 1.8K - 15% open · ⏱️ 03.04.2024):
 
 	```
 	git clone https://github.com/samtools/bcftools
@@ -157,7 +157,7 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/Illumina/manta">Illumina/manta</a></b> (🥇19 ·  ⭐ 380 · 💀) - Structural variant and indel caller for mapped sequencing data.</summary>
+<details><summary><b><a href="https://github.com/Illumina/manta">Illumina/manta</a></b> (🥇20 ·  ⭐ 380 · 💀) - Structural variant and indel caller for mapped sequencing data.</summary>
 
 - [GitHub](https://github.com/Illumina/manta) (👨‍💻 24 · 🔀 150 · 📥 43K · 📋 300 - 42% open · ⏱️ 17.07.2019):
 
@@ -173,21 +173,21 @@
 
 <details><summary><b><a href="https://github.com/Ensembl/ensembl-vep">Ensembl/ensembl-vep</a></b> (🥇19 ·  ⭐ 420) - The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants.</summary>
 
-- [GitHub](https://github.com/Ensembl/ensembl-vep) (👨‍💻 45 · 🔀 140 · 📋 1K - 9% open · ⏱️ 17.01.2024):
+- [GitHub](https://github.com/Ensembl/ensembl-vep) (👨‍💻 45 · 🔀 150 · 📋 1K - 9% open · ⏱️ 17.01.2024):
 
 	```
 	git clone https://github.com/Ensembl/ensembl-vep
 	```
 </details>
-<details><summary><b><a href="https://github.com/pcingola/SnpEff">pcingola/SnpEff</a></b> (🥉14 ·  ⭐ 230 · 📉) - </summary>
+<details><summary><b><a href="https://github.com/pcingola/SnpEff">pcingola/SnpEff</a></b> (🥉13 ·  ⭐ 220 · 📉) - </summary>
 
-- [GitHub](https://github.com/pcingola/SnpEff) (👨‍💻 21 · 🔀 69 · 📋 470 - 4% open · ⏱️ 17.01.2024):
+- [GitHub](https://github.com/pcingola/SnpEff) (👨‍💻 21 · 🔀 69 · 📋 470 - 5% open · ⏱️ 17.01.2024):
 
 	```
 	git clone https://github.com/pcingola/SnpEff
 	```
 </details>
-<details><summary><b><a href="https://github.com/WGLab/doc-ANNOVAR">WGLab/doc-ANNOVAR</a></b> (🥉12 ·  ⭐ 200) - Documentation for the ANNOVAR software.</summary>
+<details><summary><b><a href="https://github.com/WGLab/doc-ANNOVAR">WGLab/doc-ANNOVAR</a></b> (🥉12 ·  ⭐ 210) - Documentation for the ANNOVAR software.</summary>
 
 - [GitHub](https://github.com/WGLab/doc-ANNOVAR) (👨‍💻 8 · 🔀 300 · 📋 230 - 47% open · ⏱️ 19.02.2024):
 
@@ -209,9 +209,9 @@
 	git clone https://github.com/FRED-2/OptiType
 	```
 </details>
-<details><summary><b><a href="https://github.com/Illumina/ExpansionHunter">Illumina/ExpansionHunter</a></b> (🥇14 ·  ⭐ 170) - A tool for estimating repeat sizes.</summary>
+<details><summary><b><a href="https://github.com/Illumina/ExpansionHunter">Illumina/ExpansionHunter</a></b> (🥈13 ·  ⭐ 170 · 📉) - A tool for estimating repeat sizes.</summary>
 
-- [GitHub](https://github.com/Illumina/ExpansionHunter) (👨‍💻 17 · 🔀 51 · 📥 9.9K · 📋 110 - 61% open · ⏱️ 30.01.2024):
+- [GitHub](https://github.com/Illumina/ExpansionHunter) (👨‍💻 17 · 🔀 51 · 📥 10K · 📋 110 - 60% open · ⏱️ 30.01.2024):
 
 	```
 	git clone https://github.com/Illumina/ExpansionHunter
@@ -225,7 +225,7 @@
 	git clone https://github.com/humanlongevity/HLA
 	```
 </details>
-<details><summary><b><a href="https://github.com/Illumina/SMNCopyNumberCaller">Illumina/SMNCopyNumberCaller</a></b> (🥉8 ·  ⭐ 46) - A copy number caller for SMN1 and SMN2 to enable SMA diagnosis and carrier screening with WGS.</summary>
+<details><summary><b><a href="https://github.com/Illumina/SMNCopyNumberCaller">Illumina/SMNCopyNumberCaller</a></b> (🥉8 ·  ⭐ 48) - A copy number caller for SMN1 and SMN2 to enable SMA diagnosis and carrier screening with WGS.</summary>
 
 - [GitHub](https://github.com/Illumina/SMNCopyNumberCaller) (👨‍💻 4 · 🔀 11 · 📋 10 - 50% open · ⏱️ 14.10.2023):
 
@@ -239,9 +239,9 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/arq5x/bedtools2">arq5x/bedtools2</a></b> (🥇23 ·  ⭐ 890 · 📉) - bedtools - the swiss army knife for genome arithmetic.</summary>
+<details><summary><b><a href="https://github.com/arq5x/bedtools2">arq5x/bedtools2</a></b> (🥇23 ·  ⭐ 890) - bedtools - the swiss army knife for genome arithmetic.</summary>
 
-- [GitHub](https://github.com/arq5x/bedtools2) (👨‍💻 93 · 🔀 280 · 📥 990K · 📋 820 - 26% open · ⏱️ 09.03.2024):
+- [GitHub](https://github.com/arq5x/bedtools2) (👨‍💻 93 · 🔀 280 · 📥 1M · 📋 820 - 26% open · ⏱️ 09.03.2024):
 
 	```
 	git clone https://github.com/arq5x/bedtools2
@@ -269,7 +269,7 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/brentp/somalier">brentp/somalier</a></b> (🥇16 ·  ⭐ 250 · 📉) - fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs... like damn that is one smart wine guy.</summary>
+<details><summary><b><a href="https://github.com/brentp/somalier">brentp/somalier</a></b> (🥇16 ·  ⭐ 250) - fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs... like damn that is one smart wine guy.</summary>
 
 - [GitHub](https://github.com/brentp/somalier) (👨‍💻 8 · 🔀 33 · 📥 14K · 📋 120 - 39% open · ⏱️ 02.02.2024):
 
