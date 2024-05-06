@@ -98,6 +98,10 @@ projects:
     github_id: WGLab/doc-ANNOVAR
     category: "variant-annotation"
     show: True
+  - name: lgmgeo/AnnotSV
+    github_id: lgmgeo/AnnotSV
+    category: "variant-annotation"
+    show: True
   - name: humanlongevity/HLA
     github_id: humanlongevity/HLA
     category: "gene-typing"
