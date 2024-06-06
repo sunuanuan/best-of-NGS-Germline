@@ -47,7 +47,7 @@
 	git clone https://github.com/lh3/bwa
 	```
 </details>
-<details><summary><b><a href="https://github.com/bwa-mem2/bwa-mem2">bwa-mem2/bwa-mem2</a></b> (🥉16 ·  ⭐ 690 · 📈) - The next version of bwa-mem.</summary>
+<details><summary><b><a href="https://github.com/bwa-mem2/bwa-mem2">bwa-mem2/bwa-mem2</a></b> (🥉16 ·  ⭐ 690) - The next version of bwa-mem.</summary>
 
 - [GitHub](https://github.com/bwa-mem2/bwa-mem2) (👨‍💻 13 · 🔀 89 · 📥 30K · 📋 210 - 39% open · ⏱️ 08.05.2024):
 
@@ -61,15 +61,15 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/samtools/samtools">samtools/samtools</a></b> (🥇24 ·  ⭐ 1.6K) - Tools (written in C using htslib) for manipulating next-generation sequencing data.</summary>
+<details><summary><b><a href="https://github.com/samtools/samtools">samtools/samtools</a></b> (🥇25 ·  ⭐ 1.6K · 📈) - Tools (written in C using htslib) for manipulating next-generation sequencing data.</summary>
 
-- [GitHub](https://github.com/samtools/samtools) (👨‍💻 96 · 🔀 560 · 📥 1.5M · 📋 1.2K - 13% open · ⏱️ 30.05.2024):
+- [GitHub](https://github.com/samtools/samtools) (👨‍💻 96 · 🔀 560 · 📥 1.5M · 📋 1.2K - 13% open · ⏱️ 05.06.2024):
 
 	```
 	git clone https://github.com/samtools/samtools
 	```
 </details>
-<details><summary><b><a href="https://github.com/brentp/mosdepth">brentp/mosdepth</a></b> (🥈21 ·  ⭐ 660) - fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing.</summary>
+<details><summary><b><a href="https://github.com/brentp/mosdepth">brentp/mosdepth</a></b> (🥈21 ·  ⭐ 670) - fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing.</summary>
 
 - [GitHub](https://github.com/brentp/mosdepth) (👨‍💻 17 · 🔀 99 · 📥 320K · 📋 210 - 26% open · ⏱️ 17.04.2024):
 
@@ -77,7 +77,7 @@
 	git clone https://github.com/brentp/mosdepth
 	```
 </details>
-<details><summary><b><a href="https://github.com/biod/sambamba">biod/sambamba</a></b> (🥉20 ·  ⭐ 560 · 💤) - Tools for working with SAM/BAM data.</summary>
+<details><summary><b><a href="https://github.com/biod/sambamba">biod/sambamba</a></b> (🥉20 ·  ⭐ 550 · 💤) - Tools for working with SAM/BAM data.</summary>
 
 - [GitHub](https://github.com/biod/sambamba) (👨‍💻 29 · 🔀 98 · 📥 140K · 📋 460 - 6% open · ⏱️ 21.08.2023):
 
@@ -99,7 +99,7 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/google/deepvariant">google/deepvariant</a></b> (🥇25 ·  ⭐ 3.1K) - DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA..</summary>
+<details><summary><b><a href="https://github.com/google/deepvariant">google/deepvariant</a></b> (🥇24 ·  ⭐ 3.1K · 📉) - DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA..</summary>
 
 - [GitHub](https://github.com/google/deepvariant) (👨‍💻 30 · 🔀 690 · 📥 4.7K · 📋 760 - 0% open · ⏱️ 18.03.2024):
 
@@ -107,9 +107,9 @@
 	git clone https://github.com/google/deepvariant
 	```
 </details>
-<details><summary><b><a href="https://github.com/broadinstitute/gatk">broadinstitute/gatk</a></b> (🥇25 ·  ⭐ 1.6K) - Official code repository for GATK versions 4 and up.</summary>
+<details><summary><b><a href="https://github.com/broadinstitute/gatk">broadinstitute/gatk</a></b> (🥇24 ·  ⭐ 1.6K · 📉) - Official code repository for GATK versions 4 and up.</summary>
 
-- [GitHub](https://github.com/broadinstitute/gatk) (👨‍💻 130 · 🔀 570 · 📥 610K · 📋 4.5K - 26% open · ⏱️ 17.05.2024):
+- [GitHub](https://github.com/broadinstitute/gatk) (👨‍💻 130 · 🔀 570 · 📥 610K · 📋 4.5K - 26% open · ⏱️ 04.06.2024):
 
 	```
 	git clone https://github.com/broadinstitute/gatk
@@ -131,7 +131,7 @@
 
 <details><summary><b><a href="https://github.com/samtools/bcftools">samtools/bcftools</a></b> (🥇24 ·  ⭐ 620) - This is the official development repository for BCFtools. See installation instructions and other documentation here..</summary>
 
-- [GitHub](https://github.com/samtools/bcftools) (👨‍💻 55 · 🔀 230 · 📥 610K · 📋 1.9K - 15% open · ⏱️ 29.05.2024):
+- [GitHub](https://github.com/samtools/bcftools) (👨‍💻 55 · 🔀 230 · 📥 610K · 📋 1.9K - 14% open · ⏱️ 05.06.2024):
 
 	```
 	git clone https://github.com/samtools/bcftools
@@ -159,7 +159,7 @@
 
 <details><summary><b><a href="https://github.com/Illumina/manta">Illumina/manta</a></b> (🥇20 ·  ⭐ 390 · 💀) - Structural variant and indel caller for mapped sequencing data.</summary>
 
-- [GitHub](https://github.com/Illumina/manta) (👨‍💻 24 · 🔀 150 · 📥 43K · 📋 300 - 42% open · ⏱️ 17.07.2019):
+- [GitHub](https://github.com/Illumina/manta) (👨‍💻 24 · 🔀 150 · 📥 44K · 📋 300 - 42% open · ⏱️ 17.07.2019):
 
 	```
 	git clone https://github.com/Illumina/manta
@@ -171,7 +171,7 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/Ensembl/ensembl-vep">Ensembl/ensembl-vep</a></b> (🥇21 ·  ⭐ 430 · 📈) - The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants.</summary>
+<details><summary><b><a href="https://github.com/Ensembl/ensembl-vep">Ensembl/ensembl-vep</a></b> (🥇21 ·  ⭐ 430) - The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants.</summary>
 
 - [GitHub](https://github.com/Ensembl/ensembl-vep) (👨‍💻 45 · 🔀 150 · 📋 1K - 10% open · ⏱️ 08.04.2024):
 
@@ -187,17 +187,17 @@
 	git clone https://github.com/pcingola/SnpEff
 	```
 </details>
-<details><summary><b><a href="https://github.com/WGLab/doc-ANNOVAR">WGLab/doc-ANNOVAR</a></b> (🥉13 ·  ⭐ 210) - Documentation for the ANNOVAR software.</summary>
+<details><summary><b><a href="https://github.com/WGLab/doc-ANNOVAR">WGLab/doc-ANNOVAR</a></b> (🥉13 ·  ⭐ 220) - Documentation for the ANNOVAR software.</summary>
 
-- [GitHub](https://github.com/WGLab/doc-ANNOVAR) (👨‍💻 8 · 🔀 320 · 📋 240 - 48% open · ⏱️ 26.05.2024):
+- [GitHub](https://github.com/WGLab/doc-ANNOVAR) (👨‍💻 8 · 🔀 320 · 📋 240 - 47% open · ⏱️ 03.06.2024):
 
 	```
 	git clone https://github.com/WGLab/doc-ANNOVAR
 	```
 </details>
-<details><summary><b><a href="https://github.com/lgmgeo/AnnotSV">lgmgeo/AnnotSV</a></b> (🥈17 ·  ⭐ 190 · 📈) - Annotation and Ranking of Structural Variation.</summary>
+<details><summary><b><a href="https://github.com/lgmgeo/AnnotSV">lgmgeo/AnnotSV</a></b> (🥈17 ·  ⭐ 200) - Annotation and Ranking of Structural Variation.</summary>
 
-- [GitHub](https://github.com/lgmgeo/AnnotSV) (👨‍💻 5 · 🔀 33 · 📋 230 - 7% open · ⏱️ 14.05.2024):
+- [GitHub](https://github.com/lgmgeo/AnnotSV) (👨‍💻 5 · 🔀 33 · 📋 230 - 6% open · ⏱️ 14.05.2024):
 
 	```
 	git clone https://github.com/lgmgeo/AnnotSV
@@ -209,9 +209,9 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/FRED-2/OptiType">FRED-2/OptiType</a></b> (🥇14 ·  ⭐ 180 · 💀) - Precision HLA typing from next-generation sequencing data.</summary>
+<details><summary><b><a href="https://github.com/FRED-2/OptiType">FRED-2/OptiType</a></b> (🥈13 ·  ⭐ 180 · 💀) - Precision HLA typing from next-generation sequencing data.</summary>
 
-- [GitHub](https://github.com/FRED-2/OptiType) (👨‍💻 15 · 🔀 70 · 📋 110 - 42% open · ⏱️ 15.09.2020):
+- [GitHub](https://github.com/FRED-2/OptiType) (👨‍💻 15 · 🔀 71 · 📋 110 - 42% open · ⏱️ 15.09.2020):
 
 	```
 	git clone https://github.com/FRED-2/OptiType
@@ -291,7 +291,7 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/shubhamchandak94/Spring">shubhamchandak94/Spring</a></b> (🥇10 ·  ⭐ 110 · 💤) - FASTQ compression.</summary>
+<details><summary><b><a href="https://github.com/shubhamchandak94/Spring">shubhamchandak94/Spring</a></b> (🥇10 ·  ⭐ 110 · 💀) - FASTQ compression.</summary>
 
 - [GitHub](https://github.com/shubhamchandak94/Spring) (🔀 21 · 📋 35 - 2% open · ⏱️ 27.05.2023):
 
