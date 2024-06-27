@@ -41,13 +41,13 @@
 
 <details><summary><b><a href="https://github.com/lh3/bwa">lh3/bwa</a></b> (🥇21 ·  ⭐ 1.5K) - Burrow-Wheeler Aligner for short-read alignment (see minimap2 for long-read alignment).</summary>
 
-- [GitHub](https://github.com/lh3/bwa) (👨‍💻 33 · 🔀 520 · 📥 130K · 📋 290 - 63% open · ⏱️ 15.04.2024):
+- [GitHub](https://github.com/lh3/bwa) (👨‍💻 33 · 🔀 520 · 📥 130K · 📋 300 - 64% open · ⏱️ 15.04.2024):
 
 	```
 	git clone https://github.com/lh3/bwa
 	```
 </details>
-<details><summary><b><a href="https://github.com/bwa-mem2/bwa-mem2">bwa-mem2/bwa-mem2</a></b> (🥉16 ·  ⭐ 690) - The next version of bwa-mem.</summary>
+<details><summary><b><a href="https://github.com/bwa-mem2/bwa-mem2">bwa-mem2/bwa-mem2</a></b> (🥉16 ·  ⭐ 700) - The next version of bwa-mem.</summary>
 
 - [GitHub](https://github.com/bwa-mem2/bwa-mem2) (👨‍💻 13 · 🔀 91 · 📥 30K · 📋 210 - 39% open · ⏱️ 08.05.2024):
 
@@ -99,17 +99,17 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/google/deepvariant">google/deepvariant</a></b> (🥉23 ·  ⭐ 3.1K · 📉) - DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA..</summary>
+<details><summary><b><a href="https://github.com/google/deepvariant">google/deepvariant</a></b> (🥉23 ·  ⭐ 3.1K) - DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA..</summary>
 
-- [GitHub](https://github.com/google/deepvariant) (👨‍💻 30 · 🔀 690 · 📥 4.7K · 📋 770 - 0% open · ⏱️ 18.03.2024):
+- [GitHub](https://github.com/google/deepvariant) (👨‍💻 30 · 🔀 690 · 📥 4.7K · 📋 780 - 1% open · ⏱️ 18.03.2024):
 
 	```
 	git clone https://github.com/google/deepvariant
 	```
 </details>
-<details><summary><b><a href="https://github.com/broadinstitute/gatk">broadinstitute/gatk</a></b> (🥇24 ·  ⭐ 1.6K · 📉) - Official code repository for GATK versions 4 and up.</summary>
+<details><summary><b><a href="https://github.com/broadinstitute/gatk">broadinstitute/gatk</a></b> (🥇24 ·  ⭐ 1.6K) - Official code repository for GATK versions 4 and up.</summary>
 
-- [GitHub](https://github.com/broadinstitute/gatk) (👨‍💻 130 · 🔀 570 · 📥 620K · 📋 4.5K - 26% open · ⏱️ 20.06.2024):
+- [GitHub](https://github.com/broadinstitute/gatk) (👨‍💻 130 · 🔀 570 · 📥 620K · 📋 4.5K - 26% open · ⏱️ 26.06.2024):
 
 	```
 	git clone https://github.com/broadinstitute/gatk
@@ -131,7 +131,7 @@
 
 <details><summary><b><a href="https://github.com/samtools/bcftools">samtools/bcftools</a></b> (🥇24 ·  ⭐ 630) - This is the official development repository for BCFtools. See installation instructions and other documentation here..</summary>
 
-- [GitHub](https://github.com/samtools/bcftools) (👨‍💻 55 · 🔀 230 · 📥 620K · 📋 1.9K - 14% open · ⏱️ 07.06.2024):
+- [GitHub](https://github.com/samtools/bcftools) (👨‍💻 55 · 🔀 230 · 📥 620K · 📋 1.9K - 14% open · ⏱️ 27.06.2024):
 
 	```
 	git clone https://github.com/samtools/bcftools
@@ -145,7 +145,7 @@
 
 <details><summary><b><a href="https://github.com/etal/cnvkit">etal/cnvkit</a></b> (🥇22 ·  ⭐ 500) - Copy number variant detection from targeted DNA sequencing.</summary>
 
-- [GitHub](https://github.com/etal/cnvkit) (👨‍💻 37 · 🔀 150 · 📦 30 · 📋 740 - 39% open · ⏱️ 12.04.2024):
+- [GitHub](https://github.com/etal/cnvkit) (👨‍💻 37 · 🔀 150 · 📦 30 · 📋 740 - 40% open · ⏱️ 12.04.2024):
 
 	```
 	git clone https://github.com/etal/cnvkit
@@ -171,7 +171,7 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/Ensembl/ensembl-vep">Ensembl/ensembl-vep</a></b> (🥇20 ·  ⭐ 440 · 📉) - The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants.</summary>
+<details><summary><b><a href="https://github.com/Ensembl/ensembl-vep">Ensembl/ensembl-vep</a></b> (🥇20 ·  ⭐ 440) - The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants.</summary>
 
 - [GitHub](https://github.com/Ensembl/ensembl-vep) (👨‍💻 45 · 🔀 150 · 📋 1.1K - 10% open · ⏱️ 08.04.2024):
 
@@ -179,7 +179,7 @@
 	git clone https://github.com/Ensembl/ensembl-vep
 	```
 </details>
-<details><summary><b><a href="https://github.com/pcingola/SnpEff">pcingola/SnpEff</a></b> (🥉15 ·  ⭐ 240 · 📈) - </summary>
+<details><summary><b><a href="https://github.com/pcingola/SnpEff">pcingola/SnpEff</a></b> (🥉15 ·  ⭐ 240) - </summary>
 
 - [GitHub](https://github.com/pcingola/SnpEff) (👨‍💻 22 · 🔀 72 · 📋 490 - 7% open · ⏱️ 17.06.2024):
 
@@ -187,17 +187,17 @@
 	git clone https://github.com/pcingola/SnpEff
 	```
 </details>
-<details><summary><b><a href="https://github.com/WGLab/doc-ANNOVAR">WGLab/doc-ANNOVAR</a></b> (🥉14 ·  ⭐ 220 · 📈) - Documentation for the ANNOVAR software.</summary>
+<details><summary><b><a href="https://github.com/WGLab/doc-ANNOVAR">WGLab/doc-ANNOVAR</a></b> (🥉14 ·  ⭐ 220) - Documentation for the ANNOVAR software.</summary>
 
-- [GitHub](https://github.com/WGLab/doc-ANNOVAR) (👨‍💻 8 · 🔀 320 · 📋 240 - 47% open · ⏱️ 23.06.2024):
+- [GitHub](https://github.com/WGLab/doc-ANNOVAR) (👨‍💻 8 · 🔀 330 · 📋 240 - 47% open · ⏱️ 23.06.2024):
 
 	```
 	git clone https://github.com/WGLab/doc-ANNOVAR
 	```
 </details>
-<details><summary><b><a href="https://github.com/lgmgeo/AnnotSV">lgmgeo/AnnotSV</a></b> (🥈17 ·  ⭐ 200) - Annotation and Ranking of Structural Variation.</summary>
+<details><summary><b><a href="https://github.com/lgmgeo/AnnotSV">lgmgeo/AnnotSV</a></b> (🥈16 ·  ⭐ 200 · 📉) - Annotation and Ranking of Structural Variation.</summary>
 
-- [GitHub](https://github.com/lgmgeo/AnnotSV) (👨‍💻 5 · 🔀 33 · 📋 230 - 7% open · ⏱️ 14.05.2024):
+- [GitHub](https://github.com/lgmgeo/AnnotSV) (👨‍💻 5 · 🔀 33 · 📋 230 - 6% open · ⏱️ 14.05.2024):
 
 	```
 	git clone https://github.com/lgmgeo/AnnotSV
@@ -247,7 +247,7 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/arq5x/bedtools2">arq5x/bedtools2</a></b> (🥇22 ·  ⭐ 910 · 📉) - bedtools - the swiss army knife for genome arithmetic.</summary>
+<details><summary><b><a href="https://github.com/arq5x/bedtools2">arq5x/bedtools2</a></b> (🥇23 ·  ⭐ 910 · 📈) - bedtools - the swiss army knife for genome arithmetic.</summary>
 
 - [GitHub](https://github.com/arq5x/bedtools2) (👨‍💻 94 · 🔀 280 · 📥 1M · 📋 820 - 26% open · ⏱️ 14.04.2024):
 
